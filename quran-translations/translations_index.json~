@@ -1,0 +1,359 @@
+{
+  "total_translations": 63,
+  "languages": [
+    {
+      "code": "en",
+      "translation_count": 3,
+      "versions": [
+        "1.0.15",
+        "1.1.1"
+      ]
+    },
+    {
+      "code": "fr",
+      "translation_count": 3,
+      "versions": [
+        "1.0.1",
+        "1.0.0"
+      ]
+    },
+    {
+      "code": "es",
+      "translation_count": 3,
+      "versions": [
+        "1.0.0",
+        "1.0.1"
+      ]
+    },
+    {
+      "code": "pt",
+      "translation_count": 1,
+      "versions": [
+        "1.3.2"
+      ]
+    },
+    {
+      "code": "de",
+      "translation_count": 1,
+      "versions": [
+        "1.1.4"
+      ]
+    },
+    {
+      "code": "nl",
+      "translation_count": 1,
+      "versions": [
+        "2.0.6"
+      ]
+    },
+    {
+      "code": "tr",
+      "translation_count": 3,
+      "versions": [
+        "1.0.1",
+        "1.1.0",
+        "1.0.0"
+      ]
+    },
+    {
+      "code": "az",
+      "translation_count": 1,
+      "versions": [
+        "1.0.4"
+      ]
+    },
+    {
+      "code": "mk",
+      "translation_count": 1,
+      "versions": [
+        "1.0.1"
+      ]
+    },
+    {
+      "code": "sq",
+      "translation_count": 1,
+      "versions": [
+        "1.1.0"
+      ]
+    },
+    {
+      "code": "bs",
+      "translation_count": 2,
+      "versions": [
+        "2.0.4",
+        "1.1.0"
+      ]
+    },
+    {
+      "code": "sr",
+      "translation_count": 1,
+      "versions": [
+        "1.0.4"
+      ]
+    },
+    {
+      "code": "lt",
+      "translation_count": 1,
+      "versions": [
+        "1.0.8"
+      ]
+    },
+    {
+      "code": "uz",
+      "translation_count": 2,
+      "versions": [
+        "1.0.4",
+        "1.0.0"
+      ]
+    },
+    {
+      "code": "tg",
+      "translation_count": 1,
+      "versions": [
+        "1.0.2"
+      ]
+    },
+    {
+      "code": "ky",
+      "translation_count": 1,
+      "versions": [
+        "1.0.2"
+      ]
+    },
+    {
+      "code": "id",
+      "translation_count": 3,
+      "versions": [
+        "1.1.2",
+        "1.0.1",
+        "1.0.0"
+      ]
+    },
+    {
+      "code": "tl",
+      "translation_count": 1,
+      "versions": [
+        "1.1.4"
+      ]
+    },
+    {
+      "code": "zh",
+      "translation_count": 2,
+      "versions": [
+        "1.0.7",
+        "1.0.2"
+      ]
+    },
+    {
+      "code": "ug",
+      "translation_count": 1,
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "code": "ja",
+      "translation_count": 1,
+      "versions": [
+        "1.0.11"
+      ]
+    },
+    {
+      "code": "vi",
+      "translation_count": 1,
+      "versions": [
+        "1.0.7"
+      ]
+    },
+    {
+      "code": "km",
+      "translation_count": 1,
+      "versions": [
+        "1.0.2"
+      ]
+    },
+    {
+      "code": "fa",
+      "translation_count": 1,
+      "versions": [
+        "1.1.2"
+      ]
+    },
+    {
+      "code": "ku",
+      "translation_count": 1,
+      "versions": [
+        "1.1.1"
+      ]
+    },
+    {
+      "code": "ps",
+      "translation_count": 1,
+      "versions": [
+        "1.0.1"
+      ]
+    },
+    {
+      "code": "ur",
+      "translation_count": 1,
+      "versions": [
+        "1.1.2"
+      ]
+    },
+    {
+      "code": "hi",
+      "translation_count": 1,
+      "versions": [
+        "1.1.4"
+      ]
+    },
+    {
+      "code": "te",
+      "translation_count": 1,
+      "versions": [
+        "1.0.6"
+      ]
+    },
+    {
+      "code": "gu",
+      "translation_count": 1,
+      "versions": [
+        "1.1.3"
+      ]
+    },
+    {
+      "code": "ml",
+      "translation_count": 1,
+      "versions": [
+        "1.0.3"
+      ]
+    },
+    {
+      "code": "kn",
+      "translation_count": 1,
+      "versions": [
+        "1.0.3"
+      ]
+    },
+    {
+      "code": "as",
+      "translation_count": 1,
+      "versions": [
+        "1.0.5"
+      ]
+    },
+    {
+      "code": "pa",
+      "translation_count": 1,
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "code": "ta",
+      "translation_count": 2,
+      "versions": [
+        "1.0.2",
+        "1.0.1"
+      ]
+    },
+    {
+      "code": "si",
+      "translation_count": 1,
+      "versions": [
+        "1.0.5"
+      ]
+    },
+    {
+      "code": "sw",
+      "translation_count": 1,
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "code": "so",
+      "translation_count": 1,
+      "versions": [
+        "1.0.18"
+      ]
+    },
+    {
+      "code": "am",
+      "translation_count": 1,
+      "versions": [
+        "1.1.1"
+      ]
+    },
+    {
+      "code": "yo",
+      "translation_count": 1,
+      "versions": [
+        "1.0.7"
+      ]
+    },
+    {
+      "code": "ha",
+      "translation_count": 1,
+      "versions": [
+        "1.2.1"
+      ]
+    },
+    {
+      "code": "om",
+      "translation_count": 1,
+      "versions": [
+        "1.0.1"
+      ]
+    },
+    {
+      "code": "aa",
+      "translation_count": 1,
+      "versions": [
+        "1.0.1"
+      ]
+    },
+    {
+      "code": "nk",
+      "translation_count": 1,
+      "versions": [
+        "1.0.4"
+      ]
+    },
+    {
+      "code": "rw",
+      "translation_count": 1,
+      "versions": [
+        "1.0.4"
+      ]
+    },
+    {
+      "code": "rn",
+      "translation_count": 1,
+      "versions": [
+        "1.0.4"
+      ]
+    },
+    {
+      "code": "mos",
+      "translation_count": 1,
+      "versions": [
+        "1.0.1"
+      ]
+    },
+    {
+      "code": "asn",
+      "translation_count": 1,
+      "versions": [
+        "1.0.3"
+      ]
+    },
+    {
+      "code": "ln",
+      "translation_count": 1,
+      "versions": [
+        "1.0.0"
+      ]
+    }
+  ]
+}
